@@ -1,0 +1,28 @@
+{
+  "name": "makerjs-half-arch",
+  "version": "1.0.0",
+  "description": "Half of an arch, with supports. For Maker.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmarshall/makerjs-half-arch.git"
+  },
+  "keywords": [
+    "makerjs",
+    "arch",
+    "bridge",
+    "cad"
+  ],
+  "author": "Dan Marshall",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/danmarshall/makerjs-half-arch/issues"
+  },
+  "homepage": "https://github.com/danmarshall/makerjs-half-arch#readme",
+  "dependencies": {
+    "makerjs": "^0.9.15"
+  }
+}
